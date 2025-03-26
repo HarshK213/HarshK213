@@ -2,9 +2,9 @@
 
 # ✨ **HARSH KUSHWAHA** ✨
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Competitive+Programmer;Linux+Enthusiast;Football+Lover;Problem+Solver" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=3000&pause=1000&color=B2B603&center=true&vCenter=true&random=true&width=435&lines=FrontEnd+Developer;CSE+Sophomore;Linux+Learner;Photography+Lover" alt="Typing SVG" />
 
-![Profile Visits](https://komarev.com/ghpvc/?username=HarshK213&color=blueviolet&style=flat-square&label=Profile+Visits)
+![Profile Visits](https://komarev.com/ghpvc/?username=HarshK213&color=yellowgreen&style=flat&label=Profile+Visits)
 
 </div>
 
@@ -31,7 +31,7 @@ I'm a passionate technologist who thrives at the intersection of creativity and 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-<!-- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) -->
+
 
 ### Styling & Design
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -40,7 +40,7 @@ I'm a passionate technologist who thrives at the intersection of creativity and 
 
 ### Backend & Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-<!-- ![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=flat-square&logo=appwrite&logoColor=white) -->
+
 
 ### Tools & Environment
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -50,15 +50,13 @@ I'm a passionate technologist who thrives at the intersection of creativity and 
 
 </div>
 
-<!-- ## 🏆 Milestones & Achievements -->
+## 🏆 Milestones & Achievements
 
-<!-- <div align="center">
+<div align="center">
 
-| 🌟 **Mr. Diligent Award** | 🧩 **100+ DSA Problems Solved** |
-|:-------------------------:|:--------------------------------:|
 | 🚀 **Web App Developer** | 🏅 **Coding Event Organizer** |
 
-</div> -->
+</div>
 
 ## 🔥 Featured Projects
 
@@ -72,9 +70,7 @@ A modern, minimalist portfolio showcasing my professional journey and technical 
 AI-powered note-taking application with real-time collaboration features.
 `#NextJS` `#Firebase` `#Liveblocks` `#AI`
 
-<!-- ### [💻 CodeQuest Lite](https://github.com/HarshK213)
-A streamlined coding challenge tracker to organize and analyze your programming journey.
-`#React` `#LocalStorage` `#ProgressTracking` -->
+
 
 ## 📊 GitHub Stats
 
@@ -84,17 +80,16 @@ A streamlined coding challenge tracker to organize and analyze your programming 
   
   <!-- Top Languages as Donut Chart -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshK213&layout=donut&theme=vue&hide_border=true" width="49%" alt="Top Languages"/>
-</div>
 
 <!-- Compact Contribution Calendar -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarshK213&theme=vue" width="100%" alt="Contribution Calendar"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-kushwaha-697ba3289/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RAINZ_2607)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HarshK213)
-
+<!-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/) -->
 </div>
 
+##
 <div align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100">
   <br>
