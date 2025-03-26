@@ -66,9 +66,9 @@ I'm a passionate technologist who thrives at the intersection of creativity and 
 A modern, minimalist portfolio showcasing my professional journey and technical expertise.
 `#NextJS` `#TailwindCSS` `#ResponsiveDesign`
 
-### [🧠 Brainbox](https://brainbox-mu.vercel.app/)
-AI-powered note-taking application with real-time collaboration features.
-`#NextJS` `#Firebase` `#Liveblocks` `#AI`
+### [🧠 BarginBuddy](#)
+A Price Comparing ChatBot currently under development.
+`#ReactJS``#Liveblocks` `#AI`
 
 
 
