@@ -1,6 +1,8 @@
 <div align="center">
 
-# ✨ **HARSH KUSHWAHA** ✨
+<img src = "/home/akio/HarshK213/Images/HARSH.jpg">
+
+<!-- # ✨ **HARSH KUSHWAHA** ✨ -->
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=3000&pause=1000&color=B2B603&center=true&vCenter=true&random=true&width=435&lines=FrontEnd+Developer;CSE+Sophomore;Linux+Learner;Photography+Lover" alt="Typing SVG" />
 
@@ -60,7 +62,7 @@ I'm a passionate technologist who thrives at the intersection of creativity and 
 
 ## 🔥 Featured Projects
 
-<img align="right" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="250">
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTl5em4yYnV4eHZ2eW82bjlhcHB6OWs5ZXIwaTVhbmRweW9uMGtxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="250">
 
 ### [🔗 Bento Portfolio](https://bento.me/harsh-k)
 A modern, minimalist portfolio showcasing my professional journey and technical expertise.
