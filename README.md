@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src = "/home/akio/HarshK213/Images/HARSH.jpg">
+<img src = "./Images/HARSH.jpg">
 
 <!-- # ✨ **HARSH KUSHWAHA** ✨ -->
 
