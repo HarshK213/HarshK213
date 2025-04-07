@@ -4,7 +4,7 @@
 
 <!-- # ✨ **HARSH KUSHWAHA** ✨ -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=3000&pause=1000&color=B2B603&center=true&vCenter=true&random=true&width=435&lines=FrontEnd+Developer;CSE+Sophomore;Linux+Learner;Photography+Lover" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=3000&pause=1000&color=B2B603&center=true&vCenter=true&random=true&width=435&lines=FrontEnd+Developer;CSE+Sophomore;Linux+Learner" alt="Typing SVG" />
 
 ![Profile Visits](https://komarev.com/ghpvc/?username=HarshK213&color=yellowgreen&style=flat&label=Profile+Visits)
 
