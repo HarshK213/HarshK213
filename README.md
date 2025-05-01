@@ -73,6 +73,16 @@ A modern, minimalist portfolio showcasing my professional journey and technical 
 A Price Comparing ChatBot currently under development.
 `#ReactJS``#Liveblocks` `#AI`
 
+### [📝 MindScribe](#)
+MindScribe is a note-taking app designed to capture ideas, organize thoughts, and boost creativity seamlessly. currently under development.
+`#ReactJS` `#TailwindCSS` `#ReduxToolKit`
+
+
+
+
+
+
+
 
 
 ## 📊 GitHub Stats
