@@ -63,7 +63,7 @@ I'm a passionate technologist who thrives at the intersection of creativity and 
 
 ## 🔥 Featured Projects
 
-<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTl5em4yYnV4eHZ2eW82bjlhcHB6OWs5ZXIwaTVhbmRweW9uMGtxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="250">
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTl5em4yYnV4eHZ2eW82bjlhcHB6OWs5ZXIwaTVhbmRweW9uMGtxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="250" heigth="250">
 
 ### [🔗 Bento Portfolio](https://bento.me/harsh-k)
 A modern, minimalist portfolio showcasing my professional journey and technical expertise.
@@ -90,6 +90,8 @@ A Price Comparing ChatBot currently under development.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-kushwaha-697ba3289/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HarshK213)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Akio21305)
+
+
 </div>
 
 ##
