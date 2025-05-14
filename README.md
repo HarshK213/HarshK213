@@ -43,6 +43,7 @@ I'm a passionate technologist who thrives at the intersection of creativity and 
 
 ### Backend & Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?&logo=mysql&logoColor=white)
+![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?&logo=appwrite&logoColor=white)
 
 
 ### Tools & Environment
