@@ -42,8 +42,10 @@ I'm a passionate technologist who thrives at the intersection of creativity and 
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?&logo=tailwindcss&logoColor=white)
 
 ### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?&logo=mysql&logoColor=white)
 ![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?&logo=appwrite&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff)
 
 
 ### Tools & Environment
