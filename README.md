@@ -4,7 +4,7 @@
 
 <!-- # ✨ **HARSH KUSHWAHA** ✨ -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=3000&pause=1000&color=B2B603&center=true&vCenter=true&random=true&width=435&lines=FrontEnd+Developer;CSE+Sophomore;Linux+Learner" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=3000&pause=1000&color=B2B603&center=true&vCenter=true&random=true&width=435&lines=FullStack+Developer;CSE+Sophomore;Linux+Learner" alt="Typing SVG" />
 
 ![Profile Visits](https://komarev.com/ghpvc/?username=HarshK213&color=yellowgreen&style=flat&label=Profile+Visits)
 
@@ -32,8 +32,8 @@ I'm a passionate technologist who thrives at the intersection of creativity and 
 ![C++](https://img.shields.io/badge/C++-00599C?&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?&logo=react&logoColor=black)
 ![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF)
+![React](https://img.shields.io/badge/React-61DAFB?&logo=react&logoColor=black)
 
 
 ### Styling & Design
@@ -43,6 +43,7 @@ I'm a passionate technologist who thrives at the intersection of creativity and 
 
 ### Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+<!-- ![JWT](https://img.shields.io/badge/JWT-black%3Fstyle%3Dplastic%26logo%3DJSON%2520web%2520) -->
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?&logo=mysql&logoColor=white)
 ![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?&logo=appwrite&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff)
